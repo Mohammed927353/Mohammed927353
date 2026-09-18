@@ -1,167 +1,200 @@
+<!-- ===================== ANIMATED HEADER ===================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohamed+Ait;Web+Developer;Web+%26+Desktop+Applications+Developer;AI+Content+Creator" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=Mohamed%20Ait%20Abdellah%20Ou%20Ali&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Software%20Developer%20%7C%20AI%20Content%20Creator&descAlignY=58&descSize=17" width="100%" />
 </p>
 
-<h3 align="center">
-Web Developer | Web Applications Developer | Desktop Applications Developer | AI Content Creator
-</h3>
-
-## A little bit about me
-
-💻  I'm a Web Developer passionate about creating modern and responsive websites. 
-🌐  I develop web applications with modern and user-friendly interfaces. 
-🖥️  I also develop desktop applications using Python and C#. 
-🗄️  I work with SQL databases including MySQL and SQLite. 
-🤖  I'm also an AI Content Creator interested in creating digital content with Artificial Intelligence. 
-🎬  I create AI-powered images, videos and creative digital content. 
-🌱  I'm continuously learning new technologies and improving my development skills. 
-🚀  I enjoy turning ideas into real and functional digital projects. 
-💡  My goal is to combine programming, creativity and Artificial Intelligence.
-
----
+<!-- ===================== TYPING ANIMATION ===================== -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mohamed+Ait+Abdellah+Ou+Ali+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Software+%26+Desktop+Applications+Developer+%F0%9F%96%A5%EF%B8%8F;PHP+%7C+JavaScript+%7C+Python+%7C+SQL;Building+Practical+Digital+Solutions+%F0%9F%9A%80;Always+Learning.+Always+Building."
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=default" alt="GitHub Streak">
-</p>
-
-NOTE: GitHub statistics are automatically generated from my GitHub activity and repositories. They are GitHub metrics and do not necessarily indicate my skill level or language proficiency.
-
----
-
-## My Development Skills
-
-### Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</p>
-
-### Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,mysql,sqlite" />
-</p>
-
-### Programming & Desktop Application Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Followers">
 </p>
 
 ---
 
-## What I Build
+## 👨‍💻 About Me
 
-🌐 **Websites**
+```text
+💻 Web Developer
+🖥️ Software & Desktop Applications Developer
+🗄️ SQL / MySQL / SQLite Developer
+🐍 Python Developer
+⚙️ PHP & JavaScript Developer
+🤖 AI Content Creator
+🚀 Builder of practical digital solutions
+🌍 Interested in remote & international opportunities
+```
 
-I create modern, responsive and user-friendly websites for personal and business projects.
+I'm **Mohamed Ait Abdellah Ou Ali**, a **Web & Software Developer** passionate about building practical applications, business management systems and modern digital experiences.
 
-💻 **Web Applications**
+🎓 **Technicien Spécialisé en Développement Informatique**
 
-I develop interactive web applications with dynamic interfaces, databases and management features.
+💻 I develop responsive websites and dynamic web applications.
 
-🖥️ **Desktop Applications**
+⚙️ I build database-driven systems using **PHP, JavaScript, SQL and MySQL**.
 
-I build desktop applications using Python and C# with graphical user interfaces and database integration.
+🖥️ I develop desktop applications using **Python and C#**.
 
-🗄️ **Database Applications**
+🗄️ I work with **MySQL and SQLite** for data storage and management.
 
-I work with SQL, MySQL and SQLite to store, manage and organize application data.
+🤖 I am also interested in **Artificial Intelligence and AI-powered digital content**.
 
-🤖 **AI Content**
+🎨 I enjoy combining programming, design and creativity.
 
-I create digital content using Artificial Intelligence, including images, videos and creative content for digital platforms.
+📚 I continuously learn new technologies through practical projects.
 
----
-
-## Latest Projects
-
-<!-- PROJECTS:START -->
-
-* 🌐 **Web Development Projects** — Modern and responsive websites.
-* 💻 **Web Applications** — Interactive applications with databases and management systems.
-* 🖥️ **Desktop Applications** — Applications developed with Python and C#.
-* 🗄️ **Database Projects** — Projects using SQL, MySQL and SQLite.
-* 🤖 **AI Content Projects** — Creative projects using Artificial Intelligence for digital content.
-* 🎬 **AI Video & Image Content** — AI-powered visual content and creative experiments.
-
-<!-- PROJECTS:END -->
+🌍 I am interested in **remote work, freelance projects and international collaboration**.
 
 ---
 
-## Technologies I Use
+## 🧰 My Tech Stack
+
+### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,cs,mysql,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=dark" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,cs&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+</p>
+
+### 🛠️ Tools & Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## My Focus
+## 🚀 What I Build
 
-🌐 Web Development
-💻 Web Applications
-🖥️ Desktop Applications
-🗄️ SQL Databases
-🤖 Artificial Intelligence
-🎬 AI Content Creation
-📚 Continuous Learning
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+
+Modern and responsive websites with:
+
+* Dynamic interfaces
+* Authentication
+* Forms
+* Databases
+* Admin dashboards
+* CRUD systems
+* Business management features
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Desktop Applications
+
+Desktop software featuring:
+
+* Graphical interfaces
+* Login systems
+* User management
+* Database integration
+* Business management
+* Local data storage
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Database Applications
+
+Applications based on:
+
+* SQL
+* MySQL
+* SQLite
+* Data management
+* Stock systems
+* Customer management
+* Orders & invoices
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Digital Content
+
+Creative projects involving:
+
+* AI-generated images
+* AI-generated videos
+* Creative digital content
+* AI-assisted workflows
+* Digital experimentation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Activity
+# 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
+## 🖨️ Happiness Printer
+
+> A personalized printing and online ordering platform.
+
+**Main features:**
+
+* Product management
+* Categories
+* Custom products
+* Stock management
+* Shopping cart
+* Customer information
+* Orders
+* Invoices
+* Delivery management
+* WhatsApp ordering workflow
+* Website ordering workflow
+
+**Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 </p>
 
 ---
 
-## Links
+## 💊 Parapharmacie Management System
 
-<p align="center">
+> A management system concept for a modern parapharmacy.
 
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="Portfolio"/>
-  </a>
+**Main features:**
 
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.icons8.com/fluent/32/000000/github.png" alt="GitHub"/>
-  </a>
-
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-
-  <a href="YOUR_TIKTOK_URL">
-    <img src="https://img.icons8.com/color/32/000000/tiktok.png" alt="TikTok"/>
-  </a>
-
-  <a href="YOUR_YOUTUBE_URL">
-    <img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="YouTube"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="Email"/>
-  </a>
-
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my GitHub profile! 🚀</b>
-</p>
-
+* Product management
+* Barcode system
+* Stock management
+* Suppliers
+* Purchases
+* Sales
