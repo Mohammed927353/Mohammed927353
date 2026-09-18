@@ -1,9 +1,3 @@
-<!-- ====================================================== -->
-
-<!--                    PROFILE HEADER                      -->
-
-<!-- ====================================================== -->
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is **Mohamed Ait Abdellah Ou Ali** and I'm a **Web Developer / Software Developer**.
@@ -15,12 +9,12 @@ My name is **Mohamed Ait Abdellah Ou Ali** and I'm a **Web Developer / Software 
   />
 </p>
 
-<h3 align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-2F81F7?style=flat-square" alt="Web Developer">
   <img src="https://img.shields.io/badge/Web%20Applications-1572B6?style=flat-square" alt="Web Applications">
   <img src="https://img.shields.io/badge/Desktop%20Applications-3776AB?style=flat-square" alt="Desktop Applications">
   <img src="https://img.shields.io/badge/AI%20Content%20Creator-6F42C1?style=flat-square" alt="AI Content Creator">
-</h3>
+</p>
 
 ---
 
@@ -30,8 +24,8 @@ My name is **Mohamed Ait Abdellah Ou Ali** and I'm a **Web Developer / Software 
 🌐 I develop **web applications** with modern and user-friendly interfaces.
 🖥️ I also develop **desktop applications** using Python and C#.
 🗄️ I work with **SQL databases**, including MySQL and SQLite.
-🤖 I'm also an **AI Content Creator** interested in creating digital content with Artificial Intelligence.
-🎬 I create AI-powered images, videos and creative digital content.
+🤖 I'm also interested in **Artificial Intelligence and AI-powered content creation**.
+🎬 I create AI-assisted images, videos and creative digital content.
 🌱 I'm continuously learning new technologies and improving my development skills.
 🚀 I enjoy turning ideas into real and functional digital projects.
 💡 My goal is to combine **programming, creativity and Artificial Intelligence**.
@@ -62,19 +56,28 @@ My name is **Mohamed Ait Abdellah Ou Ali** and I'm a **Web Developer / Software 
 ### Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=light" alt="Web Development">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&theme=light"
+    alt="Web Development"
+  />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,sqlite&theme=light" alt="Backend and Databases">
+  <img
+    src="https://skillicons.dev/icons?i=php,mysql,sqlite&theme=light"
+    alt="Backend and Databases"
+  />
 </p>
 
 ### Programming & Desktop Application Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs&theme=light" alt="Programming and Desktop Development">
+  <img
+    src="https://skillicons.dev/icons?i=python,cs&theme=light"
+    alt="Programming and Desktop Application Development"
+  />
 </p>
 
 ---
@@ -105,16 +108,12 @@ I create digital content using Artificial Intelligence, including images, videos
 
 ## Latest Projects
 
-<!-- PROJECTS:START -->
-
 * 🌐 **Web Development Projects** — Modern and responsive websites.
 * 💻 **Web Applications** — Interactive applications with databases and management systems.
 * 🖥️ **Desktop Applications** — Applications developed with Python and C#.
 * 🗄️ **Database Projects** — Projects using SQL, MySQL and SQLite.
 * 🤖 **AI Content Projects** — Creative projects using Artificial Intelligence for digital content.
-* 🎬 **AI Video & Image Content** — AI-powered visual content and creative experiments.
-
-<!-- PROJECTS:END -->
+* 🎬 **AI Image & Video Content** — AI-assisted visual and creative experiments.
 
 ---
 
@@ -122,91 +121,65 @@ I create digital content using Artificial Intelligence, including images, videos
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=900&center=true&vCenter=true&width=600&color=2F81F7&lines=My+GitHub+Statistics+%F0%9F%93%8A;Activity+%E2%80%A2+Technologies+%E2%80%A2+Progress"
-    alt="Statistics Animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=900&center=true&vCenter=true&width=600&color=2F81F7&lines=My+GitHub+Statistics+%F0%9F%93%8A;Repositories+%E2%80%A2+Projects+%E2%80%A2+Stars+%E2%80%A2+Packages"
+    alt="GitHub Statistics Animation"
   />
 </p>
 
-### 📊 Account Overview
+### 📊 GitHub Account Overview
 
 ```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "Arial",
-    "primaryTextColor": "#24292F",
-    "textColor": "#24292F",
-    "lineColor": "#57606A",
-    "background": "#FFFFFF"
-  }
-}}%%
-
 xychart-beta
     title "GitHub Account Overview"
     x-axis ["Repositories", "Projects", "Packages", "Stars"]
-    y-axis "Count" 0 --> 10
+    y-axis "Count" 0 --> 2
     bar [1, 0, 0, 0]
 ```
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=800&center=true&vCenter=true&width=500&color=34D399&lines=Repositories+%E2%80%A2+Projects+%E2%80%A2+Packages+%E2%80%A2+Stars"
-    alt="Account Statistics Animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=800&center=true&vCenter=true&width=500&color=34D399&lines=1+Repository+%E2%80%A2+0+Projects+%E2%80%A2+0+Packages+%E2%80%A2+0+Stars"
+    alt="Account Overview Animation"
   />
 </p>
 
+> These are profile-level GitHub metrics and may change as the account grows.
+
 ---
 
-### 🥧 Technology Distribution
-
-```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "Arial",
-    "primaryTextColor": "#24292F",
-    "pie1": "#2F81F7",
-    "pie2": "#F7DF1E",
-    "pie3": "#3776AB",
-    "pie4": "#E34F26",
-    "pie5": "#512BD4",
-    "pie6": "#34D399"
-  }
-}}%%
-
-pie showData
-    title Technologies I Use
-    "PHP" : 30
-    "JavaScript" : 25
-    "Python" : 20
-    "HTML / CSS" : 15
-    "C#" : 5
-    "SQL" : 5
-```
+### 🥧 Technology Areas
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=800&center=true&vCenter=true&width=550&color=8B5CF6&lines=PHP+%E2%80%A2+JavaScript+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+C%23"
-    alt="Technology Animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=800&center=true&vCenter=true&width=550&color=8B5CF6&lines=My+Main+Technology+Areas+%F0%9F%92%BB;Web+%E2%80%A2+Backend+%E2%80%A2+Desktop+%E2%80%A2+Database+%E2%80%A2+AI"
+    alt="Technology Areas Animation"
   />
 </p>
 
+```mermaid
+pie showData
+    title Technology Areas
+    "Web Development" : 35
+    "Backend Development" : 25
+    "Desktop Applications" : 15
+    "Database Development" : 15
+    "AI & Digital Content" : 10
+```
+
+> This chart represents the main areas highlighted in my developer profile. It is not an automatic GitHub language statistic.
+
 ---
 
-### 📈 Development Progress
+### 📈 Development Focus
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=800&center=true&vCenter=true&width=550&color=F59E0B&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80;Continuous+Growth+%F0%9F%93%9A"
+    alt="Development Focus Animation"
+  />
+</p>
 
 ```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "Arial",
-    "primaryTextColor": "#24292F",
-    "textColor": "#24292F",
-    "background": "#FFFFFF",
-    "lineColor": "#F59E0B"
-  }
-}}%%
-
 xychart-beta
     title "Development Focus"
     x-axis ["Web", "Backend", "Desktop", "Database", "AI", "Learning"]
@@ -214,12 +187,7 @@ xychart-beta
     line [85, 80, 65, 75, 55, 90]
 ```
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=800&center=true&vCenter=true&width=550&color=F59E0B&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80"
-    alt="Development Progress Animation"
-  />
-</p>
+> This is a visual representation of my current development focus, not a GitHub contribution metric.
 
 ---
 
@@ -228,7 +196,7 @@ xychart-beta
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,python,cs,mysql,sqlite,git,github,vscode&theme=light"
-    alt="Technologies"
+    alt="Technologies I Use"
   />
 </p>
 
@@ -251,98 +219,46 @@ xychart-beta
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&center=true&vCenter=true&width=600&color=2F81F7&lines=Building+My+GitHub+Journey+%F0%9F%9A%80;Every+Project+Is+a+New+Step+%F0%9F%92%BB"
-    alt="GitHub Activity Animation"
-  />
-</p>
-
-```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "Arial",
-    "primaryTextColor": "#24292F",
-    "textColor": "#24292F",
-    "background": "#FFFFFF",
-    "lineColor": "#2F81F7"
-  }
-}}%%
-
-xychart-beta
-    title "Project Development Activity"
-    x-axis ["Week 1", "Week 2", "Week 3", "Week 4"]
-    y-axis "Activity" 0 --> 100
-    line [20, 45, 70, 90]
-```
-
----
-
 ## Links
 
 <p align="center">
 
-  <!-- GitHub -->
-
-  <a href="https://github.com/Mohammed927353">
-    <img
-      src="https://cdn.simpleicons.org/github/181717"
-      width="42"
-      height="42"
-      alt="GitHub"
-      title="GitHub"
-    />
-  </a>
+<a href="https://github.com/Mohammed927353">
+  <img
+    src="https://cdn.simpleicons.org/github/181717"
+    width="42"
+    height="42"
+    alt="GitHub"
+    title="GitHub"
+  />
+</a>
 
    
 
-  <!-- Gmail -->
-
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-    <img
-      src="https://cdn.simpleicons.org/gmail/EA4335"
-      width="42"
-      height="42"
-      alt="Gmail"
-      title="Gmail"
-    />
-  </a>
-
-   
-
-  <!-- LinkedIn -->
-
-  <a href="https://www.linkedin.com/jobs/">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="42"
-      height="42"
-      alt="LinkedIn"
-      title="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/jobs/">
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    width="42"
+    height="42"
+    alt="LinkedIn"
+    title="LinkedIn"
+  />
+</a>
 
 </p>
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&center=true&vCenter=true&width=550&color=2F81F7&lines=Let's+Connect+%F0%9F%91%8B;Find+Me+Online+%F0%9F%8C%90;Code+%E2%80%A2+Create+%E2%80%A2+Connect"
-    alt="Social Animation"
+    alt="Social Links Animation"
   />
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my GitHub profile! 🚀</b>
-</p>
-
-<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&center=true&vCenter=true&width=600&color=34D399&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Improve"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&center=true&vCenter=true&width=600&color=34D399&lines=Thanks+for+visiting+my+GitHub+profile!+%F0%9F%9A%80;Build+%E2%80%A2+Learn+%E2%80%A2+Create+%E2%80%A2+Improve"
     alt="Footer Animation"
   />
 </p>
