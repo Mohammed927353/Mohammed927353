@@ -223,27 +223,21 @@ xychart-beta
 
 <p align="center">
 
-<a href="https://github.com/Mohammed927353">
-  <img
-    src="https://cdn.simpleicons.org/github/181717"
-    width="42"
-    height="42"
-    alt="GitHub"
-    title="GitHub"
-  />
-</a>
+  <a href="https://github.com/Mohammed927353">
+    <img
+      src="https://img.shields.io/badge/GitHub-Mohammed927353-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub - Mohammed927353"
+    />
+  </a>
 
    
 
-<a href="https://www.linkedin.com/jobs/">
-  <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
-    width="42"
-    height="42"
-    alt="LinkedIn"
-    title="LinkedIn"
-  />
-</a>
+  <a href="https://www.linkedin.com/jobs/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
 </p>
 
